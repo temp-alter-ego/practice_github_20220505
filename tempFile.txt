@@ -1,3 +1,4 @@
 Line1 Hi Stranger! 
 Line2 Hi back! Want to watch a movie?
 Line3 No response .... Mutiny / rebellion is in process!
+Line3 Yes, I want to watch a movie but I don't know which one..... dilemma?
